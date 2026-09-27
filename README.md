@@ -10,7 +10,7 @@ HTML Structure: <header> container holds a .logo div and a .nav-links unordered 
 
 Task 1: Card Row 
 
-HTML structure: A .card-row contains three individual .card blocks with <img>, <h3>, <p> and <button>. .card-row uses display: flex and gap: 15px to place cards side by side with spacing. Setting flex: 1 on .card forces all three cards to set equally. .card img uses width: 100%, a fixed height 160px and objec-fit: cover to crop uneven photos proportionally. .card:hover applies transform: translateY(-5px) to give cards a smooth lift effect on mouse hover.
+HTML structure: A .card-row contains three individual .card blocks with "<img>", <h3>, <p> and <button>. .card-row uses display: flex and gap: 15px to place cards side by side with spacing. Setting flex: 1 on .card forces all three cards to set equally. .card img uses width: 100%, a fixed height 160px and objec-fit: cover to crop uneven photos proportionally. .card:hover applies transform: translateY(-5px) to give cards a smooth lift effect on mouse hover.
 
 Task 2: Page Layout with Grid Areas
 
