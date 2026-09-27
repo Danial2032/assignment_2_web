@@ -90,7 +90,7 @@ body {
 
 .project-card {
   display: flex;
-  flex-direction: colimn;
+  flex-direction: column;
   background-color: #fff;
   padding: 15px;
 }
