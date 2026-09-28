@@ -4,7 +4,7 @@
 
 Task 0: Navigation Bar
 
-HTML Structure: '<header>' container holds a .logo div and a .nav-links unordered list. Applying display: flex and justify-content: space-between to .header pushes the logo to the far left and the navigation links to the far right. Adding align-items: center keeps both elements vertically centered. Applying display: flex and gap: 20px to .nav-links arranges the list items in a horizontal row with clean spacing.
+HTML Structure: <'header'> container holds a .logo div and a .nav-links unordered list. Applying display: flex and justify-content: space-between to .header pushes the logo to the far left and the navigation links to the far right. Adding align-items: center keeps both elements vertically centered. Applying display: flex and gap: 20px to .nav-links arranges the list items in a horizontal row with clean spacing.
 
 
 
