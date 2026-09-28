@@ -23,7 +23,7 @@ body {
   padding: 15px;
 }
 
-.header { grid-are: header; }
+.header { grid-area: header; }
 .sidebar { grid-area: sidebar; }
 .main { grid-area: main; }
 .footer { grid-area: footer; }
