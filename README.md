@@ -20,6 +20,8 @@ Task 3: Image Gallery
 
 HTML structure: A .gallery-grid container holds 9 .gallery-item divs, each containing an <img> and an .overlay caption div. .gallery-grid uses display: grid, grid-template-columns: 1fr 1fr 1fr and gap: 10px to form a uniform 3 to 3 grid. Gallery images use object-fit: cover to maintain identical aspect ratios across all grid cells. .gallery-item uses position: relative, while .overlay uses position: absolute with display: none. When hovering over .gallery-item, .overlay switches to display: flex to reveal a dark caption box over the photo.
 
-Task 4: Portfolio Pae Integration
+Task 4: Portfolio Page Integration
 
-HTML structure: The outer layout relies on CSS Grid Areas (.page-container) to structure the header, sidebar, main section and footer. The internal components rely on Flexbox (navigation b)
+HTML structure: The outer layout relies on CSS Grid Areas (.page-container) to structure the header, sidebar, main section and footer.
+
+Web-site link: https://danial2032.github.io/assignment_2_web/
